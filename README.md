@@ -21,12 +21,3 @@ Repositório criado para organizar e guardar os exercícios desenvolvidos nas au
 ### 🔴 Módulo 3: Laços de Repetição e Vetores (`para / vetor`)
 * **`tabuada.alg`**: Gera e exibe a tabuada do 1 ao 10 para qualquer número inserido.
 * **`maior_menor.alg`**: Armazena 5 números num vetor e identifica o maior e o menor valor digitado.
-
----
-
-## 🚀 Como Executar os Códigos
-
-1. Baixe e instale o [VisualG](http://visualg3.com.br/).
-2. Faça o download ou clone este repositório:
-   ```bash
-   git clone [https://github.com/SEU-USUARIO/algoritmos-visualg.git](https://github.com/SEU-USUARIO/algoritmos-visualg.git)
